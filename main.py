@@ -1,3 +1,4 @@
+# Author's Jurijus Pacalovas
 # Usage: $ python car_make_model_classifier_yolo3.py --image cars.jp
 
 # import the necessary packages
