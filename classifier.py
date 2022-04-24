@@ -1,3 +1,4 @@
+#Author's Jurijus Pacalovas
 import numpy as np
 import json
 #import tensorflow as tf
